@@ -1,0 +1,7 @@
+{ 
+	'email': '',
+	'ActiveStatus': true,
+        'Appliance': [ 'foot', 'custom', 'attitude' ],
+        'AccessKeyID': " ",
+	'SecretAccessKey': " "
+}

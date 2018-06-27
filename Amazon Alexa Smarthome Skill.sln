@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database Update", "Database Update\Database Update.csproj", "{3C9142EF-B3B0-4846-B54D-E502CD1C75D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database Update", "Database Update\Database Update.csproj", "{3C9142EF-B3B0-4846-B54D-E502CD1C75D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web Service", "Web Service\Web Service.csproj", "{B0489626-503D-429C-B359-6B8CB60265B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alexa Lambda Function", "Alexa Lambda Function\Alexa Lambda Function.csproj", "{86CCE7F9-27A4-4F79-A350-221F43B35145}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{3C9142EF-B3B0-4846-B54D-E502CD1C75D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C9142EF-B3B0-4846-B54D-E502CD1C75D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C9142EF-B3B0-4846-B54D-E502CD1C75D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0489626-503D-429C-B359-6B8CB60265B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0489626-503D-429C-B359-6B8CB60265B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0489626-503D-429C-B359-6B8CB60265B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0489626-503D-429C-B359-6B8CB60265B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86CCE7F9-27A4-4F79-A350-221F43B35145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CCE7F9-27A4-4F79-A350-221F43B35145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CCE7F9-27A4-4F79-A350-221F43B35145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CCE7F9-27A4-4F79-A350-221F43B35145}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
