@@ -121,8 +121,3 @@ Feel free to comment and propose changes.  The author is not a C# expert and the
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## Acknowledgments
-* Inspiration[InternetShortcut]
-URL=https://github.com/nhlives/Limited-Mobility-Solutions-Alexa-Skill/blob/master/README.md
-* etc
-
